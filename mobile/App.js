@@ -6,7 +6,7 @@ const App = () => {
     <ScrollView>
       <Text>Some text</Text>
       <View>
-        <Text>Some more text</Text>
+        <Text>What ddd text</Text>
         <Image
           source={{
             uri: 'https://reactnative.dev/docs/assets/p_cat2.png',
